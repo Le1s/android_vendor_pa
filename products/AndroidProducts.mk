@@ -47,3 +47,7 @@
     $(LOCAL_DIR)/dora/pa_dora.mk \
     $(LOCAL_DIR)/kagura/pa_kagura.mk \
     $(LOCAL_DIR)/keyaki/pa_keyaki.mk
+
+# MTK
+    PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/x3/pa_x3.mk
